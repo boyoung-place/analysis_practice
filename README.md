@@ -1,2 +1,2 @@
-# eda_practice
-a space for practicing eda &amp; making portfolio
+# 분석 연습
+데이터 EDA 등 데이터 분석을 연습하는 공간입니다.
